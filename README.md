@@ -21,6 +21,7 @@
 (15) 外盒  
 ## 函式庫 (已內含)  
 (1) https://github.com/DFRobot/DFRobotDFPlayerMini  
+(2) https://github.com/PaulStoffregen/CapacitiveSensor  
 ## 說明  
 (1)  前6顆按鈕，按下#1播放第1首，按下#2播放第2首，按下#1+#2播放第3首，按下#3播放第4首，以此類推  
 (2) 最多到第64首。  
