@@ -28,5 +28,5 @@
 (3) #7按鈕: 小聲  
 (4) #8按鈕: 大聲  
 (5) mp3檔案放在SD卡中，必須按以下格式命名: 0001_歌名.mp3, 0002_歌名.mp3, ...  
-## 照片如下  
+## Wiring  
 ![image](https://github.com/Chihhao/Arduino_Dfplayer_Touch_Buttons/blob/main/image/wiring.png)  
